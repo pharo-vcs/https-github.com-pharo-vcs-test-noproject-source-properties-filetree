@@ -1,0 +1,14 @@
+{
+	"category" : "Pharo-Git-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Test",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
