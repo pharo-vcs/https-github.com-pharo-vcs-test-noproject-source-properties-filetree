@@ -1,2 +1,2 @@
 as yet unclassified
-versionNumber ^ 587
+versionNumber ^ 588
